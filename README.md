@@ -13,5 +13,11 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cs,cpp,nodejs,mysql,html,css" />
   </a>
-</p>
 </div>
+<div> 
+<h2 align="left" id="macropower-tech">My Git Stats</h2> 
+  
+[![jpAndrade23's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpAndrade23&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpAndrade23&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
+</div> 
