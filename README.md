@@ -1,16 +1,17 @@
-### Hi there 👋
-
-<!--
-**jpAndrade23/jpAndrade23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+i'm+Jo%C3%A3o+Pedro;I'm+Computer+Science+student" alt="Typing SVG" /></a>
+<div>
+<img align="right" width="400" src="https://cdn.discordapp.com/attachments/1082383095078076509/1131355574613856326/4031abad70acc46069766c4c7a228bef.gif">
+  
+##
+  
+<p align="left"> I'm studying machine learning </p>
+<p align="left"> Back-end developer</p>
+<p align="left"> Computer Science student in Universidade Tecnológica Federal do Paraná - Campo Mourão</p>
+</div>
+<div>
+  <h2> Languages and Tools:</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,nodejs,mysql,html,css" />
+  </a>
+</p>
+</div>
