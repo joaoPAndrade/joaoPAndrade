@@ -19,5 +19,7 @@
   
 [![jpAndrade23's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpAndrade23&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpAndrade23&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpAndrade23&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jpAndrade23&theme=tokyonight" alt="jpAndrade23" /></p> 
 </div> 
