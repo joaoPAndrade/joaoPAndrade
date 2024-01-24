@@ -2,7 +2,7 @@
 
 <div>
 <img align="right" width="400" src="https://cdn.discordapp.com/attachments/1082383095078076509/1131355574613856326/4031abad70acc46069766c4c7a228bef.gif">
-<img src="https://komarev.com/ghpvc/?username=jpAndrade23&color=blueviolet"  align="left" />
+<img src="https://komarev.com/ghpvc/?username=joaoPAndrade&color=blueviolet"  align="left" />
   
 ##
   
@@ -20,9 +20,9 @@
 <h2 align="left" id="macropower-tech">My Git Stats</h2> 
   
 <div style="space-arround: 5px">
-  <img src="https://github-readme-stats.vercel.app/api?username=jpAndrade23&show_icons=true&theme=tokyonight" style="margin-right: 5px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpAndrade23&theme=tokyonight" />
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jpAndrade23&theme=tokyonight" alt="jpAndrade23" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joaoPAndrade&show_icons=true&theme=tokyonight" style="margin-right: 5px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoPAndrade&theme=tokyonight" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=joaoPAndrade&theme=tokyonight" alt="jpAndrade23" />
 </div>
 
 </div> 
